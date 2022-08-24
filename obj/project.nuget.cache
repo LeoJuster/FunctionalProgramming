@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tUuPxY2AyMPnxwJQmcmDtCqYh/+AzlryYLnuFBId5t2ZSREKXTVklSMv5tvURFZyHhWfjJl8tuLzZ/pfJEbJLw==",
+  "success": true,
+  "projectFilePath": "/Users/lj/Desktop/FunctionalProgramming/FunctionalProgramming.fsproj",
+  "expectedPackageFiles": [
+    "/Users/lj/.nuget/packages/fsharp.core/6.0.5/fsharp.core.6.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
